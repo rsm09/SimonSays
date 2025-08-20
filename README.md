@@ -8,7 +8,7 @@ Each round adds a new color to the sequence, increasing difficulty until the use
 
 ## 🚀 Features
 
-- 🔵 **Four Colored Blocks** – Blue, Red, Green, Yellow
+- 🔵 **Four Colored Blocks**
 - ✨ **Blinking Animation** – Blocks highlight in sequence
 - 🧠 **Memory Challenge** – Player must recall and click in correct order
 - ➕ **Increasing Difficulty** – Each correct round adds a new step
